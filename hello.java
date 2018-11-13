@@ -6,5 +6,7 @@ public class hello {
 		System.out.println("hello hebei!");
 		System.out.println("**master**");
 	System.out.println("master*****");
+		System.out.println("hello brh!");
+		System.out.println("hello brh");
 	}
 }
